@@ -1,4 +1,4 @@
-# CloudComputingProject-II - User Login System Using AWS Cognito and LAMP Stack**  
+# CloudComputingProject-II - User Login System Using AWS Cognito and LAMP Stack  
 
 In this project, I developed a secure user login system by integrating **AWS Cognito** with the **LAMP stack (Linux, Apache, MySQL, PHP)**. The system enables user authentication, registration, and session management while leveraging AWS Cognito’s scalable identity management features.  
 
